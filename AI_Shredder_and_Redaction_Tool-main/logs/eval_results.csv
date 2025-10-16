@@ -1,0 +1,19 @@
+doc_id,class,confidentiality_level,confidence_score
+tensor(141554),0,Low Confidential,42.37
+tensor(94666),11,Low Confidential,31.7
+tensor(138960),15,Low Confidential,67.24
+tensor(37007),6,Low Confidential,97.86
+tensor(130950),7,Low Confidential,88.15
+tensor(66686),8,Low Confidential,71.57
+tensor(48196),8,Low Confidential,99.98
+tensor(3583),9,Low Confidential,99.98
+tensor(133257),9,Low Confidential,99.32
+tensor(154407),10,Low Confidential,69.03
+tensor(90460),10,Low Confidential,51.45
+tensor(85548),8,Low Confidential,83.76
+tensor(166382),11,Low Confidential,44.39
+tensor(93958),12,Low Confidential,99.83
+tensor(165159),12,Low Confidential,77.6
+tensor(19229),14,Low Confidential,83.57
+tensor(19815),15,Low Confidential,99.04
+tensor(53921),15,Low Confidential,88.6
